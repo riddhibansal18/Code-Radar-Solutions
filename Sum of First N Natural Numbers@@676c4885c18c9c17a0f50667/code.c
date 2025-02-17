@@ -9,6 +9,6 @@ int main()
     
     sum=sum+i;
     }
-    printf("\n%d", sum);
+    printf("%d", sum);
     
 }
